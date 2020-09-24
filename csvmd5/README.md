@@ -8,7 +8,7 @@
 ## 使い方
 
 ```
-bash hash.sh data/testdata.csv
+$bash hash.sh data/testdata.csv
 ```
 第1引数：ハッシュ化するファイル
 
